@@ -45,6 +45,6 @@ N/A
 ## Related Products
 * [Responsive Web Development with Bootstrap 4 and Angular 7 [Video]](https://www.packtpub.com/web-development/responsive-web-development-bootstrap-4-and-angular-7-video)
 
-* [An Introduction to Bootstrap 4 [Video]](https://www.packtpub.com/web-development/introduction-bootstrap-4-video
+* [An Introduction to Bootstrap 4 [Video]](https://www.packtpub.com/web-development/introduction-bootstrap-4-video)
 
 * [Building Web UIs with Bootstrap 4 [Video]](https://www.packtpub.com/web-development/building-web-uis-bootstrap-4-video)
